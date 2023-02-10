@@ -1,1 +1,1 @@
-AutoUpdate
+1.0
